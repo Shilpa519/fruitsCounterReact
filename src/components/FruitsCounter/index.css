@@ -1,0 +1,30 @@
+.bg-container {
+  background-color: #ffd569;
+  background-size: cover;
+  height: 100vh;
+}
+.card-container {
+  background-color: #ffffff;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 20vh;
+  margin: 35px;
+}
+.eat {
+  background-color: blue;
+  border-color: transparent;
+  border-radius: 6px;
+  margin: 20px;
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+  outline: hover;
+}
+.count {
+  color: #ffd569;
+}
